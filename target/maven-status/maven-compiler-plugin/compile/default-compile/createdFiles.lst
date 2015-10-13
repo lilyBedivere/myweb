@@ -1,9 +1,0 @@
-org\andy\shop\model\CourseInfo.class
-org\andy\shop\controller\UserController.class
-org\andy\shop\model\CourseUserInfo.class
-org\andy\shop\dao\CourseUserInfoMapper.class
-org\andy\shop\dao\UserInfoMapper.class
-org\andy\shop\model\UserInfo.class
-org\andy\shop\dao\CourseInfoMapper.class
-org\andy\shop\service\Impl\UserServiceImpl.class
-org\andy\shop\service\UserService.class
